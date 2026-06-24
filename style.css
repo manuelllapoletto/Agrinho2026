@@ -13,6 +13,16 @@ body {
     color: #333333;
     background-color: #f4f7f4; /* Fundo cinza bem claro com toque verde */
 }
+/* Estilo para todas as imagens do site */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Cantos arredondados */
+    margin: 20px 0;      /* Espaço em cima e embaixo da imagem */
+    display: block;
+    margin-left: auto;   /* Centraliza a imagem */
+    margin-right: auto;
+}
 
 /* ==========================================================================
    2. CABEÇALHO (HEADER) E NAVEGAÇÃO
